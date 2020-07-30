@@ -111,3 +111,9 @@ module.exports = function (ctx) {
 再mock-server.js和axios中也都使用该变量。
 
 移植好的项目在https://github.com/CCChieh/quasar-mockjs-example
+
+# 相关资料
+
+[vue-element-admin](https://panjiachen.github.io/vue-element-admin-site/zh/)
+
+[Quasar](https://quasar.dev/start)
